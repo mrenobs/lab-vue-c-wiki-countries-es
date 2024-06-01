@@ -31,4 +31,4 @@ watchEffect(async () => {
     countryDetails.value = store.currentCountry;
 });
 
-</script>
+</script> 
